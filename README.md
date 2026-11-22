@@ -13,8 +13,7 @@ wire-forms sheet metal and wire stock into finished miscellaneous
 metal goods — stamped/pressed sheet-metal parts, wire products (mesh,
 coil, formed-wire goods), and metal household goods — not elsewhere
 classified in the ISIC 259 group. This is distinct from
-`cloud-itonami-isic-2591` (Forging, pressing, stamping and roll-
-forming of metal), the primary heavy metal-forming process upstream of
+`cloud-itonami-isic-2591` (ISIC 2591), the primary heavy metal-forming process upstream of
 this shop's own light fabrication; from `cloud-itonami-isic-2592`
 (Treatment and coating of metals), a distinct surface-finishing
 process; and from `cloud-itonami-isic-2593` (Manufacture of cutlery,
