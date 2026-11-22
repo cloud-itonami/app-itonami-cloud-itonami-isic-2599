@@ -47,8 +47,7 @@ ISIC 2599's own residual "n.e.c." scope) rather than 2431's
 `cloud-itonami-isic-2599` is also distinct from three sibling classes
 in the same ISIC 259 group, none of which are `:implemented` in this
 fleet yet (`kotoba-lang/industry` registry, `:maturity :spec`):
-`cloud-itonami-isic-2591` (Forging, pressing, stamping and roll-
-forming of metal -- the primary heavy metal-forming process upstream
+`cloud-itonami-isic-2591` (ISIC 2591 -- the primary heavy metal-forming process upstream
 of this shop's own light fabrication), `cloud-itonami-isic-2592`
 (Treatment and coating of metals -- a distinct surface-finishing
 process), and `cloud-itonami-isic-2593` (Manufacture of cutlery, hand
